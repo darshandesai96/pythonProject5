@@ -1,7 +1,7 @@
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 
-username = 'ashutoshshinde59@gmail.com'
+username = 'darshan.desai.t20@gmail.com'
 
 SCOPES = [
         "https://www.googleapis.com/auth/gmail.send"
