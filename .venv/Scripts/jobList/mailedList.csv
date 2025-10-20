@@ -13,5 +13,4 @@ Date,Company,Mail,JobId,isMailed,error_message
 11/18/2024,Test,ashutoshshinde59@gmail.com,Test101,N,"<HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/darshan.desai.t20%40gmail.com/messages/send?alt=json returned ""'raw' RFC822 payload message string or uploading message via /upload/* URL required"". Details: ""[{'message': ""'raw' RFC822 payload message string or uploading message via /upload/* URL required"", 'domain': 'global', 'reason': 'invalidArgument'}]"">"
 11/18/2024,Test,ashutoshshinde59@gmail.com,Test101,N,"<HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned ""'raw' RFC822 payload message string or uploading message via /upload/* URL required"". Details: ""[{'message': ""'raw' RFC822 payload message string or uploading message via /upload/* URL required"", 'domain': 'global', 'reason': 'invalidArgument'}]"">"
 ,,,,,
-,,,,,
-2024-11-18,Test,ashutoshshinde59@gmail.com,Test101,Y,
+2024-11-23,Test3,330832@gmail.com,Test103,Y,
